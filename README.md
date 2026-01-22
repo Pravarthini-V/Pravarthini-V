@@ -4,7 +4,7 @@ Computer Science Engineering Student
 Java | DSA | Backend Development  
 Currently learning DSA & Spring Boot 
 Generative AI
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravarthini-V&show_icons=true&theme=dark)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prava_1104?theme=dark&font=Karma)
 
