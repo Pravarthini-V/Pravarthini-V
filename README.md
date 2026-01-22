@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋 I'm Pravarthini
+
+🎓 Computer Science Engineering Student  
+💻 Java | DSA | Backend Development  
+🌱 Currently learning DSA & Spring Boot  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravarthini-V&show_icons=true&theme=dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pravarthiniv?theme=dark&font=Karma)
+
 
 <!--
 **Pravarthini-V/Pravarthini-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
