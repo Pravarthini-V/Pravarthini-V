@@ -1,125 +1,80 @@
-# Hi 👋 I'm V. Pravarthini
+# V. Pravarthini 👋
 
-🎓 Computer Science Engineering Student
-💡 Passionate about AI, Full Stack Development & Problem Solving
-
----
-
-## 🌐 Connect With Me
-
-* 📧 Email: [pravarthinivijay06@gmail.com](mailto:pravarthinivijay06@gmail.com)
-* 📱 Phone: +91 9865281889
-* 🔗 LinkedIn: [www.linkedin.com/in/v-pravarthini](http://www.linkedin.com/in/v-pravarthini)
-* 💻 GitHub: https://github.com/Pravarthini-V
-* 🧩 LeetCode: https://leetcode.com/u/Prava_1104/
+🎓 B.E. Computer Science and Engineering | May 2027  
+💡 Passionate about AI, Full Stack Development, and Problem Solving  
 
 ---
 
-## 🚀 About Me
-
-* AI Intern working on **Generative AI & LLMs**
-* Building real-world applications using **RAG & Agentic AI**
-* Strong interest in **Backend + AI Integration Systems**
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming Languages
-
-* Java (Core)
-* Python
-* SQL
-
-### 🌐 Web Technologies
-
-* HTML5
-* CSS3
-* JavaScript
-* React
-
-### ⚙️ Frameworks
-
-* Spring Boot
-* Spring REST API
-* Hibernate
-* FastAPI
-
-### 🗄️ Databases
-
-* MySQL
-* PostgreSQL
-
-### ☁️ Backend Services
-
-* Supabase
-
-### 🛠️ Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
+## 🌐 Contact
+- Email: pravarthinivijay06@gmail.com  
+- Phone: +91 9865281889  
+- LinkedIn: [linkedin.com/in/v-pravarthini](https://www.linkedin.com/in/v-pravarthini)  
+- GitHub: [github.com/Pravarthini-V](https://github.com/Pravarthini-V)  
+- LeetCode: [leetcode.com/u/Prava_1104/](https://leetcode.com/u/Prava_1104/)  
 
 ---
 
-## 🤖 AI / ML Expertise
-
-* Generative AI
-* RAG (Retrieval-Augmented Generation)
-* Agentic AI
-* Prompt Engineering
-* Transformers
-* Neural Networks
-* Deep Learning
+## 💼 Education
+**Erode Sengunthar Engineering College**  
+B.E. Computer Science and Engineering | May 2027  
 
 ---
 
-## 💼 Experience
+## 🧰 Skills
 
-### 🧑‍💻 AI Intern – AboveCloud9.AI (Feb 2026 – Present)
-
-* Built AI applications using **RAG & Prompt Engineering**
-* Worked with **LangChain, LangGraph**
-* Developed **Agentic AI systems**
-* Created backend APIs using **FastAPI**
-
-### 🌐 Full Stack Intern – Femtosoft Technologies (Jul 2025 – Aug 2025)
-
-* Developed responsive web apps using **HTML, CSS, JS**
-* Worked with **MySQL & PostgreSQL**
-* Built complete **full-stack modules**
+**Programming Languages:** Java (Core), Python, SQL  
+**Web Technologies:** HTML5, CSS3, JavaScript, React  
+**Frameworks:** Spring Boot, Spring REST API, Hibernate, FastAPI  
+**Databases:** MySQL, PostgreSQL  
+**Backend Services:** Supabase  
+**Software & Tools:** Git, GitHub, VS Code, Postman  
+**Core Competencies:** Communication, Generative AI, RAG (Retrieval-Augmented Generation),  
+Agentic AI, Prompt Engineering, Transformers, Neural Networks, Deep Learning  
 
 ---
 
-## 📌 Projects
+## 🏢 Internships
 
-### 🛒 Artizen – AI-Powered E-Commerce Platform
+**AboveCloud9.AI | Coimbatore** | Feb 2026 – Present  
+*AI Intern – Generative AI & LLMs*  
+- Built real-world AI applications using **Prompt Engineering** and **RAG architecture**  
+- Worked with **LangChain** and **LangGraph** for AI-powered pipelines  
+- Designed **Agentic AI systems** for task automation  
+- Developed backend APIs using **FastAPI**  
+- Contributed to AI projects from concept to execution  
 
-* Built using **Spring Boot, Node.js, TensorFlow**
-* AI-based recommendations & scalable backend system
-
-### 🤖 RAG-Based AI System
-
-* Implemented full **RAG pipeline**
-* Used **LangChain, ChromaDB, FastAPI**
-* Built semantic search & LLM integration
-
-### ⚡ Agentic AI Tool System
-
-* Developed multi-tool AI system using **LangGraph**
-* Integrated **PostgreSQL + ChromaDB**
-* Designed workflow automation with AI agents
+**Femtosoft Technologies | Chennai** | Jul 2025 – Aug 2025  
+*Full Stack Engineer Intern*  
+- Developed responsive web pages using **HTML, CSS, JavaScript**  
+- Performed database operations using **MySQL** and **PostgreSQL**  
+- Built end-to-end web modules integrating frontend, backend, and database layers  
+- Enhanced problem-solving skills through real-world development tasks  
 
 ---
 
-## 📈 Focus Areas
+## 🚀 Projects
 
-* AI + Backend Systems
-* LLM Applications
-* Scalable API Development
+**Artizen – AI-Powered E-Commerce Platform**  
+- Tech: Java (Spring Boot), Node.js, HTML, CSS, JavaScript, TensorFlow, Generative AI  
+- Developed AI-powered product recommendations  
+- Implemented backend services for business logic and APIs  
+- Built responsive frontend interfaces  
+
+**RAG-Based AI System – Generative AI Project**  
+- Tech: LangChain-Python, Pydantic, ChromaDB, Embeddings  
+- Implemented a **RAG pipeline** integrating LLMs with external knowledge sources  
+- Built REST APIs using FastAPI for AI interaction  
+- Applied prompt engineering to improve response accuracy  
+
+**Agentic AI Tool System**  
+- Tech: LangGraph, Python, Pydantic, ChromaDB, Embeddings  
+- Developed multi-tool AI orchestration system  
+- Integrated workflow with PostgreSQL and Supabase  
+- Implemented tools for task-specific AI functionalities  
 
 ---
 
-⭐ *Building intelligent systems with AI + Full Stack Engineering*
-
+## 🌟 Focus Areas
+- AI + Backend Systems  
+- LLM Applications & RAG Pipelines  
+- Scalable API Development  
