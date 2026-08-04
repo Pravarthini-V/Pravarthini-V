@@ -3,6 +3,7 @@ CSE Student
 
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pravarthini-V)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-pravarthini)
 
 ---
 
@@ -10,7 +11,7 @@ CSE Student
 - Generative AI, RAG & Agentic AI
 - Spring Boot & Spring Security
 - Spring JPA & Hibernate
-- Computer Networks
+- Computer network
 - REST API Development
 - Neural Networks & Deep Learning
 - Full-Stack Development with React
@@ -66,6 +67,11 @@ CSE Student
 
 ## 📊 GitHub Stats
 ![Pravarthini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravarthini-V&theme=dark&show_icons=true&hide=issues,contribs&rank_icon=github&hide_rank=true)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Pravarthini-V&theme=dark)
 
 ---
 
