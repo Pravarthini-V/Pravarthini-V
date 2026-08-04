@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pravarthini Vijeyanath
+# Hi there 👋 I'm Pravarthini Vijeyananth
 CSE Student
 
 ## 🌐 Connect With Me
